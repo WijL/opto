@@ -1,2 +1,2 @@
 # opto
-Repositora optomind
+Repository optomind
